@@ -1,0 +1,27 @@
+/*.finalbox{
+
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}*/
+.finalScore{
+  margin-bottom: 4rem;
+  text-align: center;
+}
+.btn{
+  margin-right: 12px;
+  margin-left: 0;
+  width:100%;
+}
+form{
+  width:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+input{
+  height:34px;
+}

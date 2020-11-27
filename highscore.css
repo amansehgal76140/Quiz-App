@@ -1,0 +1,10 @@
+.ScoreTable{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+
+}
+.Column{
+  border:solid 4px;
+  padding:1rem 1rem 1rem 1rem;
+  font-size: 1.2rem;
+}
